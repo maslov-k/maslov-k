@@ -1,5 +1,7 @@
-### Hi there 👋
+### Привет! 👋 Меня Зовут Кирилл.
+ Я обучаюсь на курсе "Разработчик C++" в Яндекс.Практикуме.
 
+Резюме: https://hh.ru/resume/ede7b060ff09e0636d0039ed1f716171545036
 <!--
 **maslov-k/maslov-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
